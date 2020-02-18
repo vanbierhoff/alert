@@ -1,6 +1,14 @@
 <template lang="hrml">
 
-<h1> Первая точка входа </h1>
+<header>
+  
+     <section class="logo-section">
+         <span class="header-logo">логотип</span>
+         <button class='header-btn-form'>форма</button>
+    </section>  
+    
+
+ </header>
 
 </template>
 
