@@ -2,9 +2,9 @@
 
 .logo-section{
     display: flex;
+    background: url('../img/header_bk.png')
 }
 
 .header-btn-form{
-padding: 35px;
-
+padding: (17/$width)*100% (63/$width)*100%;
 } 
